@@ -1,0 +1,112 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_mapbox_navigation (0.0.20):
+    - Flutter
+    - MapboxNavigation (~> 1.4)
+  - flutter_native_splash (0.0.1):
+    - Flutter
+  - location (0.0.1):
+    - Flutter
+  - Mapbox-iOS-SDK (6.4.1):
+    - MapboxMobileEvents (~> 0.10.12)
+  - mapbox_gl (0.0.1):
+    - Flutter
+    - Mapbox-iOS-SDK (~> 6.4.0)
+    - MapboxAnnotationExtension (~> 0.0.1-beta.1)
+  - MapboxAccounts (2.3.1)
+  - MapboxAnnotationExtension (0.0.1-beta.2):
+    - Mapbox-iOS-SDK (~> 6.0)
+  - MapboxCommon (9.2.0)
+  - MapboxCoreNavigation (1.4.2):
+    - MapboxAccounts (~> 2.3.0)
+    - MapboxDirections (~> 1.2.0)
+    - MapboxMobileEvents (~> 0.10.2)
+    - MapboxNavigationNative (~> 32.0)
+    - Turf (~> 1.0)
+  - MapboxDirections (1.2.0):
+    - Polyline (~> 5.0)
+    - Turf (~> 1.0)
+  - MapboxMobileEvents (0.10.14)
+  - MapboxNavigation (1.4.2):
+    - Mapbox-iOS-SDK (~> 6.0)
+    - MapboxCoreNavigation (= 1.4.2)
+    - MapboxMobileEvents (~> 0.10.2)
+    - MapboxSpeech (~> 1.0)
+    - Solar (~> 2.1)
+  - MapboxNavigationNative (32.0.0):
+    - MapboxCommon (= 9.2.0)
+  - MapboxSpeech (1.0.0)
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - Polyline (5.0.2)
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+  - Solar (2.1.0)
+  - Turf (1.2.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_mapbox_navigation (from `.symlinks/plugins/flutter_mapbox_navigation/ios`)
+  - flutter_native_splash (from `.symlinks/plugins/flutter_native_splash/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - mapbox_gl (from `.symlinks/plugins/mapbox_gl/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - shared_preferences_ios (from `.symlinks/plugins/shared_preferences_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Mapbox-iOS-SDK
+    - MapboxAccounts
+    - MapboxAnnotationExtension
+    - MapboxCommon
+    - MapboxCoreNavigation
+    - MapboxDirections
+    - MapboxMobileEvents
+    - MapboxNavigation
+    - MapboxNavigationNative
+    - MapboxSpeech
+    - Polyline
+    - Solar
+    - Turf
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_mapbox_navigation:
+    :path: ".symlinks/plugins/flutter_mapbox_navigation/ios"
+  flutter_native_splash:
+    :path: ".symlinks/plugins/flutter_native_splash/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  mapbox_gl:
+    :path: ".symlinks/plugins/mapbox_gl/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  shared_preferences_ios:
+    :path: ".symlinks/plugins/shared_preferences_ios/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_mapbox_navigation: b2d023f58478f5f80242db9b70cc75ee37f42e20
+  flutter_native_splash: 52501b97d1c0a5f898d687f1646226c1f93c56ef
+  location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  Mapbox-iOS-SDK: f870f83cbdc7aa4a74afcee143aafb0dae390c82
+  mapbox_gl: 33c5ab6306cbfa72289bb3606d2cd2e8baee9ff0
+  MapboxAccounts: e40ef575df5d8b7ef33d0504ff2d393f4fde0455
+  MapboxAnnotationExtension: 4eee6c26349ef6d909f1a23a7eae2d0f7ca5fa7d
+  MapboxCommon: 2c4ef00c10cba35302835423f4d63c6f3dea4bc4
+  MapboxCoreNavigation: fd24751d42a53c2ca4ddebd55f49a11b925f08be
+  MapboxDirections: 383df0cd65784897c2269750a42d9654c832f0ce
+  MapboxMobileEvents: 5a172cc9bbf8ac0e45ba86095cbee685ede248cc
+  MapboxNavigation: b596028515707e1b4b94d22f298a7c7000712e6d
+  MapboxNavigationNative: e811b9beed18c01e4693e29f843d36b4a760fa61
+  MapboxSpeech: 4b3aea42e35d056fae1d7ad847a9fc0f412d911e
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  Polyline: fce41d72e1146c41c6d081f7656827226f643dff
+  shared_preferences_ios: 548a61f8053b9b8a49ac19c1ffbc8b92c50d68ad
+  Solar: 2dc6e7cc39186cb0c8228fa08df76fb50c7d8f24
+  Turf: aaa060138b11a8e979a19e6d81091d156a31bc58
+
+PODFILE CHECKSUM: 2d89ddf9fa4a3a02c9f025822f3097c8115f595c
+
+COCOAPODS: 1.11.3
